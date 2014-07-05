@@ -1,6 +1,6 @@
-### Private_to_Public
+## Private_to_Public
 
-## Purpose
+### Purpose
 
 Most of the work I'm currently doing is on private repositories.  Since GitHub
 doesn't track activity on private repos, commits and the like, I wanted to have a
